@@ -65,4 +65,4 @@ Teach me,I teach you.<br/>
 
 
 **SPONSERED**
-<a href="https://www.buymeacoffee.com/mostafaolyai" target="_blank"><img src="https://clausnehring.com/wp-content/uploads/2021/04/Buy-me-a-coffee-300x293.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/mostafaolyai" target="_blank"><img src="https://clausnehring.com/wp-content/uploads/2021/04/Buy-me-a-coffee-300x293.png" alt="Buy Me A Coffee" height="50" width="50" ></a>
