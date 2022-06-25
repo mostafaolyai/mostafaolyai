@@ -63,6 +63,7 @@ Teach me,I teach you.<br/>
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-
+<!--
 **SPONSERED**
 <a href="https://www.buymeacoffee.com/mostafaolyai" target="_blank"><img src="https://clausnehring.com/wp-content/uploads/2021/04/Buy-me-a-coffee-300x293.png" alt="Buy Me A Coffee" height="50" width="50" ></a>
+-->
